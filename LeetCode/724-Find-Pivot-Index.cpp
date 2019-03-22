@@ -1,4 +1,4 @@
-//My solution, runtime 2036ms, memory 14.1MB
+//My solution, runtime 2036ms, memory usage 14.1MB
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
@@ -24,7 +24,7 @@ public:
     }
 };
 
-//Sample submisson, runtime 32ms，memory 14.2MB
+//Sample submisson, runtime 32ms，memory usage 14.2MB
 /*
 class Solution {
 public:
